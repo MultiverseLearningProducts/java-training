@@ -1,6 +1,6 @@
-# intro-to-springboot
+# SpringBoot
 
-This repository holds a sample project which can be cloned to give developers an understanding of what a Spring Boot Rest application looks like. 
+This directory holds a sample project which can be cloned to give developers an understanding of what a Spring Boot Rest application looks like. 
 
 The reader should have familiarity with the following prior to using the code:
   * Java basic language features
