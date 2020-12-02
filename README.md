@@ -2,4 +2,4 @@
 
 This repository holds Java training material/sample code
 
-  * SpringBoot
+  * [SpringBoot](https://github.com/WhiteHatLearningProducts/java-training/tree/main/springboot)
