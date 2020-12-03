@@ -1,0 +1,16 @@
+package com.whitehat;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+/**
+ * The main starting point for our application.
+ */
+@SpringBootApplication
+public class HelloWorldApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(HelloWorldApplication.class, args);
+    }
+
+}
