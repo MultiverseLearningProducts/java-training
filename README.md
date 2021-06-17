@@ -24,6 +24,7 @@
    * Checked Exceptions
    * Unchecked Exceptions
 * try/catch/finally
+* Auto Closeable resources
 
 ## Data types
 * Strings
