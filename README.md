@@ -17,7 +17,7 @@
 * Method overloading
 * Method overriding
 
-## Exception handling 
+## [Exception handling](https://github.com/MultiverseLearningProducts/java-training/tree/main/exceptions)
 * Types of errors
 * Errors
 * Exceptions 
