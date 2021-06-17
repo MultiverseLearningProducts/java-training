@@ -36,3 +36,7 @@
   * Logging frameworks
   * [SpringBoot](https://github.com/WhiteHatLearningProducts/java-training/tree/main/springboot-hello-world)
   * [Jackson](https://github.com/WhiteHatLearningProducts/java-training/tree/main/jackson)
+
+## Exam questions
+https://testoutce.com/pages/practice-quiz-exam-1z0-808-java-se-8-programmer-i
+
