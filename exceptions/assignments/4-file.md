@@ -19,5 +19,5 @@
   1. Should you explicitly catch this exception in your code? Expand your answer with reasons.  
   1. How can you fix this compilation error?
   1. What happens if the file is not found?
-  1. A scanner *must* be closed (see warning on the right hadn side of your code) - take a look at the JavaDoc for the Scanner class (search "Scanner javadoc 8") and add in the close call
-  - note there are 2 options closing resources, what are they?!
+  1. A scanner *must* be closed (see warning on the right hand side of your code) - take a look at the JavaDoc for the Scanner class (search "Scanner javadoc 8") and add in the close call
+  - note there are 2 options for closing resources, what are they?!
