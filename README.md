@@ -17,13 +17,14 @@
 * Method overloading
 * Method overriding
 
-## Exception handling 
+## [Exception handling](https://github.com/MultiverseLearningProducts/java-training/tree/main/exceptions)
 * Types of errors
 * Errors
 * Exceptions 
    * Checked Exceptions
    * Unchecked Exceptions
 * try/catch/finally
+* Auto Closeable resources
 
 ## Data types
 * Strings
@@ -35,3 +36,7 @@
   * Logging frameworks
   * [SpringBoot](https://github.com/WhiteHatLearningProducts/java-training/tree/main/springboot-hello-world)
   * [Jackson](https://github.com/WhiteHatLearningProducts/java-training/tree/main/jackson)
+
+## Exam questions
+https://testoutce.com/pages/practice-quiz-exam-1z0-808-java-se-8-programmer-i
+
